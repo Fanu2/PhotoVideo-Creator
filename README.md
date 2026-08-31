@@ -1,4 +1,4 @@
-Here is a **complete, directly pasteable `README.md`** based on that code:
+
 
 ````markdown
 # 🎬 Image Slideshow Video Maker
